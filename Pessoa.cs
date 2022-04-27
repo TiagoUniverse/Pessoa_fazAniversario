@@ -30,6 +30,7 @@ namespace Pessoa_fazAniversario
 
         public void FazAniversario()
         {
+            setIdade( getIdade() + 1);
             Console.WriteLine(getNome() + " tem " + getIdade() + " anos ");
         }
 
