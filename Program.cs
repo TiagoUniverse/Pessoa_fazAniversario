@@ -6,7 +6,9 @@ namespace Pessoa_fazAniversario
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Pessoa pessoa1 = new Pessoa();
+            pessoa1.setNome("Tiago");
+            Console.WriteLine("Olá, " + pessoa1.getNome() + "!");
         }
     }
 }
