@@ -1,0 +1,11 @@
+C:\Projetos\1 -BACKEND\C SHARP\Pessoa_fazAniversario\bin\Debug\netcoreapp3.0\Pessoa_fazAniversario.exe
+C:\Projetos\1 -BACKEND\C SHARP\Pessoa_fazAniversario\bin\Debug\netcoreapp3.0\Pessoa_fazAniversario.deps.json
+C:\Projetos\1 -BACKEND\C SHARP\Pessoa_fazAniversario\bin\Debug\netcoreapp3.0\Pessoa_fazAniversario.runtimeconfig.json
+C:\Projetos\1 -BACKEND\C SHARP\Pessoa_fazAniversario\bin\Debug\netcoreapp3.0\Pessoa_fazAniversario.runtimeconfig.dev.json
+C:\Projetos\1 -BACKEND\C SHARP\Pessoa_fazAniversario\bin\Debug\netcoreapp3.0\Pessoa_fazAniversario.dll
+C:\Projetos\1 -BACKEND\C SHARP\Pessoa_fazAniversario\bin\Debug\netcoreapp3.0\Pessoa_fazAniversario.pdb
+C:\Projetos\1 -BACKEND\C SHARP\Pessoa_fazAniversario\obj\Debug\netcoreapp3.0\Pessoa_fazAniversario.csprojAssemblyReference.cache
+C:\Projetos\1 -BACKEND\C SHARP\Pessoa_fazAniversario\obj\Debug\netcoreapp3.0\Pessoa_fazAniversario.AssemblyInfoInputs.cache
+C:\Projetos\1 -BACKEND\C SHARP\Pessoa_fazAniversario\obj\Debug\netcoreapp3.0\Pessoa_fazAniversario.AssemblyInfo.cs
+C:\Projetos\1 -BACKEND\C SHARP\Pessoa_fazAniversario\obj\Debug\netcoreapp3.0\Pessoa_fazAniversario.dll
+C:\Projetos\1 -BACKEND\C SHARP\Pessoa_fazAniversario\obj\Debug\netcoreapp3.0\Pessoa_fazAniversario.pdb
